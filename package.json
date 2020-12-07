@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "@tonaljs/tonal": "^4.6.0"
+  },
   "devDependencies": {
     "@types/node": "^12.19.8",
     "ts-node": "^9.1.0",
